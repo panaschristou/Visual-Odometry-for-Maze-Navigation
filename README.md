@@ -27,7 +27,7 @@ We implemented several classical computer vision techniques along with some deep
 
 ## Visualizations
 ### Feature Matching between adjacent frames
-![Feature Matching Example]([image_URL](https://github.com/panaschristou/Visual-Odometry-for-Maze-Navigation/blob/main/figures/feature_matching_adj_frames.jpg)https://github.com/panaschristou/Visual-Odometry-for-Maze-Navigation/blob/main/figures/feature_matching_adj_frames.jpg)
+![Feature Matching Example](https://github.com/panaschristou/Visual-Odometry-for-Maze-Navigation/blob/main/figures/feature_matching_adj_frames.jpg)
 
 
 
