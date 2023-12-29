@@ -25,6 +25,9 @@ The grading criterion was completing the navigation to the target images in unde
 - To further make the map better in every calculation of the translation/rotation, we made sure to use only the highest magnitude of the two transformations (even when calculating only one of the transformations due to matrix multiplication we had some error which resulted in a small magnitude in the other transformation as well) when plotting the map which removed all curves from the map and plotted only straight lines.  
 We implemented several classical computer vision techniques along with some deep learning to complete the project but found that with the hardware we had available, the deep learning implementations for feature detection and matching slowed us down.  
 
+## Visualizations
+### Feature Matching between adjacent frames
+![Feature Matching Example]([image_URL](https://github.com/panaschristou/Visual-Odometry-for-Maze-Navigation/blob/main/figures/feature_matching_adj_frames.jpg)https://github.com/panaschristou/Visual-Odometry-for-Maze-Navigation/blob/main/figures/feature_matching_adj_frames.jpg)
 
 
 
